@@ -1,0 +1,12 @@
+.comments {
+  text-align: center;
+}
+
+.comments h2 {
+  color: #fff;
+  margin-top: 2rem;
+}
+
+.comments > button {
+  font-size: 1.25rem;
+}
