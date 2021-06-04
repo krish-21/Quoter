@@ -43,7 +43,9 @@ const Comments = () => {
     status === "completed" &&
     (!loadedComments || loadedComments.length === 0)
   ) {
-    comments = <p className="centered">No comments were added yet</p>;
+    comments = (
+      <p className={styles["no-comments"]}>No comments were added yet</p>
+    );
   }
 
   if (status === "completed" && loadedComments && loadedComments.length > 0) {

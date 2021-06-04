@@ -18,9 +18,3 @@ Get Inspired
 ## Website
 
 https://krish-21.github.io/Quoter/
-
----
-
-# Quoter is still under development!!!
-
----

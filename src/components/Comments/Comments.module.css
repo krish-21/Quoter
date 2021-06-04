@@ -10,3 +10,8 @@
 .comments > button {
   font-size: 1.25rem;
 }
+
+.no-comments {
+  margin-top: 2rem;
+  color: #b4f5f0;
+}
